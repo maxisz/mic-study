@@ -1,5 +1,5 @@
 <?php
-defined('https://mic-study.herokuapp.com/') OR exit('No direct script access allowed');
+defined('https://mic-study.herokuapp.com/');
 
 /*
 |--------------------------------------------------------------------------
