@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql11.freesqldatabase.com',
-	'username' => 'sql11427451',
-	'password' => 'aldiNV7pUZ',
-	'database' => 'sql11427451',
+	'hostname' => 'db4free.net',
+	'username' => 'micstudy',
+	'password' => 'Hackstar2018',
+	'database' => 'micstudy',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
